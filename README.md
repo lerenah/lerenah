@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/lerenah/">Lerena Holloway</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/lerenah/">Lerena Holloway</a>'s Security Analyst/Engineering Project Portfolio 🔐
 
 I’m a Senior Software Engineer with 6 years of experience building and supporting production systems — APIs, CI/CD pipelines, cloud infrastructure, and internal platforms. Over time, I found myself more interested in how systems break than just how they’re built, which led me to focus more intentionally on security.
 
@@ -16,15 +16,10 @@ My goal is to narrow my technical focus, build deeper mastery, and bridge my sof
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/lerenah)**
 
-<hr/>
+## 🏆 Certifications
+- CompTIA Security+ (SY0-701) - In-Progress
+- Google Cybersecurity Certificate (Coursera)
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/lerenah
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lerena%20Holloway-blue?logo=linkedin)](https://www.linkedin.com/in/lerenah/)
