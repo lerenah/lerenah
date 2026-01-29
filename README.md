@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/lerenah/">Lerena Holloway</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I’m a senior software engineer with 6+ years of experience building and supporting production systems — APIs, CI/CD pipelines, cloud infrastructure, and internal platforms. Over time, I found myself more interested in how systems break than just how they’re built, which led me to focus more intentionally on security.
+I’m a Senior Software Engineer with 6 years of experience building and supporting production systems — APIs, CI/CD pipelines, cloud infrastructure, and internal platforms. Over time, I found myself more interested in how systems break than just how they’re built, which led me to focus more intentionally on security.
 
 This repository highlights hands-on cybersecurity work I’m doing through a structured cyber range and internship-style program (Josh Madakor). The projects here focus on vulnerability management, remediation, and basic detection using realistic cloud and endpoint scenarios.
 
