@@ -14,7 +14,7 @@ My goal is to narrow my technical focus, build deeper mastery, and bridge my sof
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/lerenah/ThreatHuntReports/blob/main/tor_install_report.md)**
+- **[Threat Hunting Report (Tor Browser Usage)](https://github.com/lerenah/ThreatHuntReports/blob/main/tor_install_report.md)**
 
 ## 🏆 Certifications
 - CompTIA Security+ (SY0-701) - In-Progress
