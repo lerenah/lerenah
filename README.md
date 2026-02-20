@@ -1,10 +1,13 @@
 # Hi, I'm [Lerena Holloway](https://www.linkedin.com/in/lerenah/) 👋
 
-Senior Software Engineer with 6 years building production systems — APIs, CI/CD pipelines, cloud infrastructure, internal platforms. Over time, I found myself more interested in **how systems break** than just how they're built.
+Senior Software Engineer | AI Product Security | U.S. Navy Veteran | Building products at the intersection of security and product thinking
 
-That curiosity is now a direction. I'm working toward the intersection of **product management and cybersecurity** — understanding the engineering decisions that create risk, the controls that reduce it, and the product thinking that makes security something teams actually ship.
-
-I'm also building products using AI tooling, because the ability to go from idea to deployed application is now a core PM skill — and I want to be fluent in it.
+I spent six years at Bloomberg building APIs, internal platforms, and identity infrastructure. Before that, Quality Assurance Inspector on P-3 Orion aircraft in the Navy — where I learned how small failures compound into catastrophic ones, and how to trace problems to their root cause under pressure.
+That combination shapes how I think now: I care about how engineering decisions create risk, and how to make security something teams can ship without it becoming a velocity tax.
+I'm actively building in two directions:
+🔐 Security — hands-on vulnerability management, detection, and remediation, grounded in the engineering instincts I built at Bloomberg
+🎯 Product — designing experiences that make complex technical problems legible to the people who need to act on them
+Right now that means going deep on cybersecurity through hands-on projects and shipping products with AI tooling. I want to be fluent in the domains I'm curious about — not just adjacent to them.
 
 ---
 
