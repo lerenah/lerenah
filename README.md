@@ -6,7 +6,9 @@ I spent six years at Bloomberg building APIs, internal platforms, and identity i
 That combination shapes how I think now: I care about how engineering decisions create risk, and how to make security something teams can ship without it becoming a velocity tax.
 
 I'm actively building in two directions:
+
 🔐 Security — hands-on vulnerability management, detection, and remediation, grounded in the engineering instincts I built at Bloomberg
+
 🎯 Product — designing experiences that make complex technical problems legible to the people who need to act on them
 
 Right now that means going deep on cybersecurity through hands-on projects and shipping products with AI tooling. I want to be fluent in the domains I'm curious about — not just adjacent to them.
