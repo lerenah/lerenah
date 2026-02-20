@@ -22,7 +22,8 @@ Products I've designed and shipped using AI tooling — from concept to deployed
 | Project | What It Does | Live |
 |---|---|---|
 | **[Security for PMs](https://github.com/lerenah/remix-of-personal-blog-brthrs)** | Interactive cybersecurity training app for product managers — scenario-based decisions, layered security feedback, 4 learning paths, 13 lessons | [pm-sec.netlify.app](https://pm-sec.netlify.app) |
-| *More coming* | | |
+| **[Azure Threat Hunter](https://github.com/lerenah/azure-soc-simulator)** | SOC analyst interview prep app — KQL query practice, Azure logging architecture diagrams, mock interview mode with timed responses, and mastery tracking across Entra ID, Activity Logs, and MDE | [https://azure-threat-hunter.netlify.app](https://azure-threat-hunter.netlify.app) |
+
 
 **Toolchain:** Lovable · ChatGPT · Claude · GitHub · Netlify
 
