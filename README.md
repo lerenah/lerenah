@@ -4,9 +4,11 @@ Senior Software Engineer | AI Product Security | U.S. Navy Veteran | Building pr
 
 I spent six years at Bloomberg building APIs, internal platforms, and identity infrastructure. Before that, Quality Assurance Inspector on P-3 Orion aircraft in the Navy — where I learned how small failures compound into catastrophic ones, and how to trace problems to their root cause under pressure.
 That combination shapes how I think now: I care about how engineering decisions create risk, and how to make security something teams can ship without it becoming a velocity tax.
+
 I'm actively building in two directions:
 🔐 Security — hands-on vulnerability management, detection, and remediation, grounded in the engineering instincts I built at Bloomberg
 🎯 Product — designing experiences that make complex technical problems legible to the people who need to act on them
+
 Right now that means going deep on cybersecurity through hands-on projects and shipping products with AI tooling. I want to be fluent in the domains I'm curious about — not just adjacent to them.
 
 ---
