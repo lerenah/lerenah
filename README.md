@@ -24,6 +24,7 @@ Products I've designed and shipped using AI tooling — from concept to deployed
 | **[Security for PMs](https://github.com/lerenah/remix-of-personal-blog-brthrs)** | Interactive cybersecurity training app for product managers — scenario-based decisions, layered security feedback, 4 learning paths, 13 lessons | [pm-sec.netlify.app](https://pm-sec.netlify.app) |
 | **[Azure Threat Hunter](https://github.com/lerenah/azure-soc-simulator)** | SOC analyst interview prep app — KQL query practice, Azure logging architecture diagrams, mock interview mode with timed responses, and mastery tracking across Entra ID, Activity Logs, and MDE | [https://azure-threat-hunter.netlify.app](https://azure-threat-hunter.netlify.app) |
 | **[Security+ Agent](https://github.com/lerenah/security-coach)** | Interactive CompTIA Security+ practice exam engine — runs configurable quiz sessions (10–90 questions), delivers instant grading, explains why answers are correct or incorrect, and links concepts to Professor Messer study videos for deeper learning | [https://sec-plus-coach.netlify.app/quiz](https://sec-plus-coach.netlify.app) |
+| **[Math Refresher Drill App](https://github.com/lerenah/percent-prodigy.git)** | Math Drill — AI-powered practice questions that regenerate endlessly. Master the 10 question types that show up most on the test, with step-by-step explanations after every answer. | [https://word-math-drill.netlify.app/](https://word-math-drill.netlify.app/) |
 
 
 **Toolchain:** Lovable · ChatGPT · Claude · GitHub · Netlify
