@@ -1,4 +1,4 @@
-# Hi, I'm [Lerena Holloway](https://www.linkedin.com/in/lerenah/) 👋
+# Hi, I'm [Rena Holloway](https://www.linkedin.com/in/lerenah/) 👋
 
 Senior Software Engineer · U.S. Navy Veteran · Builder of tools 
 that help people learn faster and work smarter with AI.
