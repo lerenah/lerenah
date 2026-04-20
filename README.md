@@ -29,7 +29,7 @@ to build it.
 ## 🚀 Featured Project
 
 ### [AeroFlow](https://github.com/lerenah/AeroFlow) — 
-[tryaeroflow.dev](https://tryaeroflow.dev)
+[![Live](https://img.shields.io/badge/live-tryaeroflow.dev-8b5cf6)](https://tryaeroflow.dev)
 
 > *Your specs take flight.*
 
@@ -56,16 +56,16 @@ Apps I've built that teach through doing. Each one solves a
 real learning problem I encountered — too much passive content, 
 not enough practice with feedback.
 
-| Project | What It Teaches | How |
+| Project (Live Link) | What It Teaches | How |
 |---|---|---|
-| **[RetainIt](https://github.com/lerenah/retainit)** | Any article or PDF | Paste an article, AI splits it into sections, tests you with flashcards before you advance. Spaced repetition built in. |
-| **[Security for PMs](https://github.com/lerenah/remix-of-personal-blog-brthrs)** · [pm-sec.netlify.app](https://pm-sec.netlify.app) | Cybersecurity for non-engineers | Scenario-based decisions, layered feedback, 4 learning paths, 13 lessons |
-| **[Azure Threat Hunter](https://github.com/lerenah/azure-soc-simulator)** · [azure-threat-hunter.netlify.app](https://azure-threat-hunter.netlify.app) | KQL querying + Azure security | SOC analyst prep — mock interview mode, timed responses, mastery tracking |
-| **[Security+ Agent](https://github.com/lerenah/security-coach)** · [sec-plus-coach.netlify.app](https://sec-plus-coach.netlify.app) | CompTIA Security+ | Configurable practice exams, instant grading, concept explanations, Professor Messer links |
-| **[Math Refresher Drill](https://github.com/lerenah/percent-prodigy)** · [word-math-drill.netlify.app](https://word-math-drill.netlify.app) | Test math — percentages, word problems | AI-regenerated questions endlessly, step-by-step explanations |
+| **[RetainIt](https://github.com/lerenah/retainit)** [![Live](https://img.shields.io/badge/live-retainit.netlify.app-06b6d4)](https://retainit.netlify.app) | Any article or PDF | Paste an article, AI splits it into sections, tests you with flashcards before you advance. Spaced repetition built in. |
+| **[Security for PMs](https://github.com/lerenah/remix-of-personal-blog-brthrs)** [![Live](https://img.shields.io/badge/live-pm--sec.netlify.app-8b5cf6)](https://pm-sec.netlify.app) | Cybersecurity for non-engineers | Scenario-based decisions, layered feedback, 4 learning paths, 13 lessons |
+| **[Azure Threat Hunter](https://github.com/lerenah/azure-soc-simulator)** [![Live](https://img.shields.io/badge/live-azure--threat--hunter.netlify.app-3b82f6)](https://azure-threat-hunter.netlify.app) | KQL querying + Azure security | SOC analyst prep — mock interview mode, timed responses, mastery tracking |
+| **[Security+ Agent](https://github.com/lerenah/security-coach)** [![Live](https://img.shields.io/badge/live-sec--plus--coach.netlify.app-10b981)](https://sec-plus-coach.netlify.app) | CompTIA Security+ | Configurable practice exams, instant grading, concept explanations, Professor Messer links |
+| **[Math Refresher Drill](https://github.com/lerenah/percent-prodigy)** [![Live](https://img.shields.io/badge/live-word--math--drill.netlify.app-f97316)](https://word-math-drill.netlify.app) | Test math — percentages, word problems | AI-regenerated questions endlessly, step-by-step explanations |
 
 **Toolchain:** Next.js · TypeScript · Lovable · Claude · 
-ChatGPT · GitHub · Netlify · Vercel
+ChatGPT · GitHub · Netlify · Vercel · Neon Postgres
 
 ---
 
