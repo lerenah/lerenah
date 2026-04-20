@@ -1,53 +1,97 @@
 # Hi, I'm [Lerena Holloway](https://www.linkedin.com/in/lerenah/) 👋
 
-Senior Software Engineer | AI Product Security | U.S. Navy Veteran | Building products at the intersection of security and product thinking
+Senior Software Engineer · U.S. Navy Veteran · Builder of tools 
+that help people learn faster and work smarter with AI.
 
-I spent six years at Bloomberg building APIs, internal platforms, and identity infrastructure. Before that, Quality Assurance Inspector on P-3 Orion aircraft in the Navy — where I learned how small failures compound into catastrophic ones, and how to trace problems to their root cause under pressure.
-That combination shapes how I think now: I care about how engineering decisions create risk, and how to make security something teams can ship without it becoming a velocity tax.
+I spent six years at Bloomberg building APIs, internal platforms, 
+and developer workflow tooling. Before that, Quality Assurance 
+Inspector on P-3 Orion aircraft in the Navy — where I learned 
+that the best systems are the ones people actually understand 
+and trust.
 
-I'm actively building in two directions:
+That thread runs through everything I build now. I'm drawn to 
+tools that make something hard feel approachable — whether 
+that's learning a new skill, understanding a complex system, 
+or building software with AI assistance.
 
-🔐 Security — hands-on vulnerability management, detection, and remediation, grounded in the engineering instincts I built at Bloomberg
+Right now I'm focused on two things:
 
-🎯 Product — designing experiences that make complex technical problems legible to the people who need to act on them
+🛠️ **Full-stack SaaS development** — building production-grade 
+applications with Next.js, TypeScript, and modern AI tooling
 
-Right now that means going deep on cybersecurity through hands-on projects and shipping products with AI tooling. I want to be fluent in the domains I'm curious about — not just adjacent to them.
+📚 **Learning tools** — apps that teach through doing, not 
+passive reading. Flashcards, drills, simulations, practice 
+engines. If it helps someone learn something faster, I want 
+to build it.
 
 ---
 
-## 🤖 AI-Built Products
+## 🚀 Featured Project
 
-Products I've designed and shipped using AI tooling — from concept to deployed application. These sit at the intersection of my product thinking, security domain knowledge, and ability to move fast with modern tools.
+### [AeroFlow](https://github.com/lerenah/AeroFlow) — 
+[tryaeroflow.dev](https://tryaeroflow.dev)
 
-| Project | What It Does | Live |
+> *Your specs take flight.*
+
+An open-source AI workflow manager for developers who build 
+with AI. Store your prompts, context files, and feature specs 
+— then run them. Stop re-explaining your project every time 
+you open an AI tool.
+
+**The problem:** Every AI conversation starts from zero. 
+You re-explain your stack, hunt through old chat histories 
+for prompts, paste coding standards manually. AeroFlow is 
+the missing memory layer between you and your AI tools.
+
+**Stack:** Next.js 15 · TypeScript · Prisma 7 · Neon PostgreSQL 
+· NextAuth v5 · OpenAI · Stripe · Upstash Redis · Vercel
+
+**Status:** In active development
+
+---
+
+## 📚 Learning Tools
+
+Apps I've built that teach through doing. Each one solves a 
+real learning problem I encountered — too much passive content, 
+not enough practice with feedback.
+
+| Project | What It Teaches | How |
 |---|---|---|
-| **[Security for PMs](https://github.com/lerenah/remix-of-personal-blog-brthrs)** | Interactive cybersecurity training app for product managers — scenario-based decisions, layered security feedback, 4 learning paths, 13 lessons | [pm-sec.netlify.app](https://pm-sec.netlify.app) |
-| **[Azure Threat Hunter](https://github.com/lerenah/azure-soc-simulator)** | SOC analyst interview prep app — KQL query practice, Azure logging architecture diagrams, mock interview mode with timed responses, and mastery tracking across Entra ID, Activity Logs, and MDE | [https://azure-threat-hunter.netlify.app](https://azure-threat-hunter.netlify.app) |
-| **[Security+ Agent](https://github.com/lerenah/security-coach)** | Interactive CompTIA Security+ practice exam engine — runs configurable quiz sessions (10–90 questions), delivers instant grading, explains why answers are correct or incorrect, and links concepts to Professor Messer study videos for deeper learning | [https://sec-plus-coach.netlify.app/quiz](https://sec-plus-coach.netlify.app) |
-| **[Math Refresher Drill App](https://github.com/lerenah/percent-prodigy.git)** | Math Drill — AI-powered practice questions that regenerate endlessly. Master the 10 question types that show up most on the test, with step-by-step explanations after every answer. | [https://word-math-drill.netlify.app/](https://word-math-drill.netlify.app/) |
+| **[RetainIt](https://github.com/lerenah/retainit)** | Any article or PDF | Paste an article, AI splits it into sections, tests you with flashcards before you advance. Spaced repetition built in. |
+| **[Security for PMs](https://github.com/lerenah/remix-of-personal-blog-brthrs)** · [pm-sec.netlify.app](https://pm-sec.netlify.app) | Cybersecurity for non-engineers | Scenario-based decisions, layered feedback, 4 learning paths, 13 lessons |
+| **[Azure Threat Hunter](https://github.com/lerenah/azure-soc-simulator)** · [azure-threat-hunter.netlify.app](https://azure-threat-hunter.netlify.app) | KQL querying + Azure security | SOC analyst prep — mock interview mode, timed responses, mastery tracking |
+| **[Security+ Agent](https://github.com/lerenah/security-coach)** · [sec-plus-coach.netlify.app](https://sec-plus-coach.netlify.app) | CompTIA Security+ | Configurable practice exams, instant grading, concept explanations, Professor Messer links |
+| **[Math Refresher Drill](https://github.com/lerenah/percent-prodigy)** · [word-math-drill.netlify.app](https://word-math-drill.netlify.app) | Test math — percentages, word problems | AI-regenerated questions endlessly, step-by-step explanations |
 
-
-**Toolchain:** Lovable · ChatGPT · Claude · GitHub · Netlify
+**Toolchain:** Next.js · TypeScript · Lovable · Claude · 
+ChatGPT · GitHub · Netlify · Vercel
 
 ---
 
-## 🔐 Security Work
+## 💼 Engineering Background
 
-Hands-on cybersecurity projects through a structured cyber range and internship-style program (Josh Madakor), focused on vulnerability management, remediation, and detection using realistic cloud and endpoint scenarios.
+**Bloomberg LP** — 6 years
+- Built API gateways, SDKs, and developer workflow tooling
+- Pipeline configuration services and scheduling UIs
+- Auth-protected microservices and internal platforms
+- Python · FastAPI · Flask · React · TypeScript · SQL · 
+  Airflow · Docker · Kubernetes
 
-⚠️ **Vulnerability Management Projects**
-- **[Vulnerability Management Program Implementation](https://github.com/lerenah/vulnerability-mgmt-program/blob/main/README.md)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/lerenah/stig-implementations/tree/main)**
-
-🚨 **Threat Hunting and Security Operations**
-- **[Threat Hunting Report — Tor Browser Usage](https://github.com/lerenah/ThreatHuntReports/blob/main/tor_install_report.md)**
+**U.S. Navy** — Quality Assurance Inspector, P-3 Orion aircraft
+- Traced system failures to root cause under pressure
+- Learned that good systems are the ones people understand 
+  and trust
 
 ---
 
 ## 🏆 Certifications
-- CompTIA Security+ (SY0-701) - In-Progress
+
 - Google Cybersecurity Certificate (Coursera)
 
-## 🤳 Connect With Me
+---
+
+## 🤳 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lerena%20Holloway-blue?logo=linkedin)](https://www.linkedin.com/in/lerenah/)
+[![AeroFlow](https://img.shields.io/badge/live-tryaeroflow.dev-8b5cf6)](https://tryaeroflow.dev)
