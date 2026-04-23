@@ -58,7 +58,7 @@ not enough practice with feedback.
 
 | Project (Live Link) | What It Teaches | How |
 |---|---|---|
-| **[RetainIt](https://github.com/lerenah/retainit)** [![Live](https://img.shields.io/badge/live-retainit.netlify.app-06b6d4)](https://retainit.netlify.app) | Any article or PDF | Paste an article, AI splits it into sections, tests you with flashcards before you advance. Spaced repetition built in. |
+| **[RetainIt](https://github.com/lerenah/retain-learn)** [![Live](https://img.shields.io/badge/live-retainit.netlify.app-06b6d4)](https://read-and-retain.netlify.app/) | Any article or PDF | Paste an article, AI splits it into sections, tests you with flashcards before you advance. Spaced repetition built in. |
 | **[Security for PMs](https://github.com/lerenah/remix-of-personal-blog-brthrs)** [![Live](https://img.shields.io/badge/live-pm--sec.netlify.app-8b5cf6)](https://pm-sec.netlify.app) | Cybersecurity for non-engineers | Scenario-based decisions, layered feedback, 4 learning paths, 13 lessons |
 | **[Azure Threat Hunter](https://github.com/lerenah/azure-soc-simulator)** [![Live](https://img.shields.io/badge/live-azure--threat--hunter.netlify.app-3b82f6)](https://azure-threat-hunter.netlify.app) | KQL querying + Azure security | SOC analyst prep — mock interview mode, timed responses, mastery tracking |
 | **[Security+ Agent](https://github.com/lerenah/security-coach)** [![Live](https://img.shields.io/badge/live-sec--plus--coach.netlify.app-10b981)](https://sec-plus-coach.netlify.app) | CompTIA Security+ | Configurable practice exams, instant grading, concept explanations, Professor Messer links |
