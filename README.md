@@ -50,7 +50,7 @@ the missing memory layer between you and your AI tools.
 
 ---
 
-## 📚 Learning Tools
+## 📚 Learning Tools I Like To Build :)
 
 Apps I've built that teach through doing. Each one solves a 
 real learning problem I encountered — too much passive content, 
